@@ -1,0 +1,86 @@
+{
+  "courses": [
+    {
+      "name": "Programacao Web",
+      "years": [
+        {
+          "name": "Ano 1",
+          "groups": [
+            {
+              "name": "P-WEB-1",
+              "weeks": [
+                {
+                  "name": "Semana 1",
+                  "link": "https://example.com"
+                },
+                {
+                  "name": "Semana 2",
+                  "link": "https://example.com"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ano 2",
+          "groups": [
+            {
+              "name": "P-WEB-2",
+              "weeks": [
+                {
+                  "name": "Semana 1",
+                  "link": "https://example.com"
+                },
+                {
+                  "name": "Semana 2",
+                  "link": "https://example.com"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Programacao Mobile",
+      "years": [
+        {
+          "name": "Ano 1",
+          "groups": [
+            {
+              "name": "P-MOB-1",
+              "weeks": [
+                {
+                  "name": "Semana 1",
+                  "link": "https://example.com"
+                },
+                {
+                  "name": "Semana 2",
+                  "link": "https://example.com"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ano 2",
+          "groups": [
+            {
+              "name": "P-MOB-2",
+              "weeks": [
+                {
+                  "name": "Semana 1",
+                  "link": "https://example.com"
+                },
+                {
+                  "name": "Semana 2",
+                  "link": "https://example.com"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

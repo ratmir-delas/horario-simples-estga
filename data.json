@@ -1,0 +1,3212 @@
+{
+  "courses": [
+    {
+      "name": "CTeSP DE MANUTENÇÃO INDUSTRIAL",
+      "years": [
+        {
+          "name": "Ano 1",
+          "groups": [
+            {
+              "name": "C-MI-1",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_2109-1_5_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_2109-1_5_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_2109-1_5_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_2109-1_5_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_2109-1_5_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_2109-1_5_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_2109-1_5_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_2109-1_5_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_2109-1_5_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_2109-1_5_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_2109-1_5_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_2109-1_5_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_2109-1_5_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_2109-1_5_20241216.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ano 2",
+          "groups": [
+            {
+              "name": "C-MI-2",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_2109-2_6_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_2109-2_6_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_2109-2_6_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_2109-2_6_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_2109-2_6_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_2109-2_6_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_2109-2_6_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_2109-2_6_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_2109-2_6_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_2109-2_6_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_2109-2_6_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_2109-2_6_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_2109-2_6_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_2109-2_6_20241216.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CTeSP DE PROGRAMAÇÃO DE SISTEMAS DE INFORMAÇÃO",
+      "years": [
+        {
+          "name": "Ano 1",
+          "groups": [
+            {
+              "name": "C-PSI-1",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_2106-1_3_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_2106-1_3_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_2106-1_3_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_2106-1_3_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_2106-1_3_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_2106-1_3_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_2106-1_3_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_2106-1_3_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_2106-1_3_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_2106-1_3_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_2106-1_3_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_2106-1_3_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_2106-1_3_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_2106-1_3_20241216.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ano 2",
+          "groups": [
+            {
+              "name": "C-PSI-2",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_2106-2_4_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_2106-2_4_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_2106-2_4_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_2106-2_4_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_2106-2_4_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_2106-2_4_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_2106-2_4_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_2106-2_4_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_2106-2_4_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_2106-2_4_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_2106-2_4_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_2106-2_4_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_2106-2_4_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_2106-2_4_20241216.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CTeSP DE REDES E SISTEMAS INFORMÁTICOS",
+      "years": [
+        {
+          "name": "Ano 1",
+          "groups": [
+            {
+              "name": "C-RSI-1",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_2100-1_1_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_2100-1_1_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_2100-1_1_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_2100-1_1_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_2100-1_1_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_2100-1_1_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_2100-1_1_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_2100-1_1_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_2100-1_1_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_2100-1_1_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_2100-1_1_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_2100-1_1_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_2100-1_1_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_2100-1_1_20241216.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ano 2",
+          "groups": [
+            {
+              "name": "C-RSI-2",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_2100-2_2_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_2100-2_2_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_2100-2_2_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_2100-2_2_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_2100-2_2_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_2100-2_2_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_2100-2_2_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_2100-2_2_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_2100-2_2_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_2100-2_2_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_2100-2_2_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_2100-2_2_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_2100-2_2_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_2100-2_2_20241216.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CTeSP DE TECNOLOGIA MECÂNICA",
+      "years": [
+        {
+          "name": "Ano 1",
+          "groups": [
+            {
+              "name": "C-TM-1",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_2114-1_11_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_2114-1_11_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_2114-1_11_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_2114-1_11_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_2114-1_11_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_2114-1_11_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_2114-1_11_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_2114-1_11_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_2114-1_11_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_2114-1_11_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_2114-1_11_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_2114-1_11_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_2114-1_11_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_2114-1_11_20241216.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ano 2",
+          "groups": [
+            {
+              "name": "C-TM-2",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_2114-2_12_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_2114-2_12_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_2114-2_12_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_2114-2_12_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_2114-2_12_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_2114-2_12_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_2114-2_12_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_2114-2_12_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_2114-2_12_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_2114-2_12_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_2114-2_12_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_2114-2_12_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_2114-2_12_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_2114-2_12_20241216.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CTeSP EM CIBERSEGURANÇA",
+      "years": [
+        {
+          "name": "Ano 1",
+          "groups": [
+            {
+              "name": "C-CS-1",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_2120-1_53_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_2120-1_53_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_2120-1_53_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_2120-1_53_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_2120-1_53_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_2120-1_53_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_2120-1_53_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_2120-1_53_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_2120-1_53_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_2120-1_53_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_2120-1_53_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_2120-1_53_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_2120-1_53_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_2120-1_53_20241216.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ano 2",
+          "groups": [
+            {
+              "name": "C-CS-2",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_2120-2_56_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_2120-2_56_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_2120-2_56_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_2120-2_56_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_2120-2_56_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_2120-2_56_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_2120-2_56_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_2120-2_56_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_2120-2_56_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_2120-2_56_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_2120-2_56_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_2120-2_56_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_2120-2_56_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_2120-2_56_20241216.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CTeSP EM GESTÃO DE PME",
+      "years": [
+        {
+          "name": "Ano 1",
+          "groups": [
+            {
+              "name": "C-PME-1",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_2110-1_7_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_2110-1_7_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_2110-1_7_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_2110-1_7_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_2110-1_7_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_2110-1_7_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_2110-1_7_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_2110-1_7_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_2110-1_7_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_2110-1_7_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_2110-1_7_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_2110-1_7_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_2110-1_7_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_2110-1_7_20241216.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ano 2",
+          "groups": [
+            {
+              "name": "C-PME-2",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_2110-2_8_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_2110-2_8_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_2110-2_8_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_2110-2_8_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_2110-2_8_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_2110-2_8_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_2110-2_8_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_2110-2_8_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_2110-2_8_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_2110-2_8_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_2110-2_8_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_2110-2_8_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_2110-2_8_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_2110-2_8_20241216.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CTeSP EM INSTALAÇÕES ELÉTRICAS E AUTOMAÇÃO",
+      "years": [
+        {
+          "name": "Ano 1",
+          "groups": [
+            {
+              "name": "C-IEA-1",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_2111-1_9_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_2111-1_9_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_2111-1_9_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_2111-1_9_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_2111-1_9_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_2111-1_9_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_2111-1_9_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_2111-1_9_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_2111-1_9_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_2111-1_9_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_2111-1_9_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_2111-1_9_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_2111-1_9_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_2111-1_9_20241216.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ano 2",
+          "groups": [
+            {
+              "name": "C-IEA-2",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_2111-2_10_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_2111-2_10_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_2111-2_10_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_2111-2_10_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_2111-2_10_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_2111-2_10_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_2111-2_10_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_2111-2_10_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_2111-2_10_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_2111-2_10_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_2111-2_10_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_2111-2_10_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_2111-2_10_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_2111-2_10_20241216.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CTeSP EM METROLOGIA E QUALIDADE NA INDÚSTRIA",
+      "years": [
+        {
+          "name": "Ano 1",
+          "groups": [
+            {
+              "name": "C-MQI-1",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_2129-1_55_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_2129-1_55_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_2129-1_55_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_2129-1_55_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_2129-1_55_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_2129-1_55_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_2129-1_55_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_2129-1_55_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_2129-1_55_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_2129-1_55_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_2129-1_55_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_2129-1_55_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_2129-1_55_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_2129-1_55_20241216.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ano 2",
+          "groups": [
+            {
+              "name": "C-MQI-2",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_2129-2_61_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_2129-2_61_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_2129-2_61_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_2129-2_61_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_2129-2_61_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_2129-2_61_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_2129-2_61_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_2129-2_61_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_2129-2_61_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_2129-2_61_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_2129-2_61_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_2129-2_61_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_2129-2_61_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_2129-2_61_20241216.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CURSO DE ESPECIALIZAÇÃO EM AUDITORIAS DE SISTEMAS INTEGRADOS DE GESTÃO",
+      "years": [
+        {
+          "name": "Ano 1",
+          "groups": [
+            {
+              "name": "5206-1",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_5206-1_43_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_5206-1_43_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_5206-1_43_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_5206-1_43_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_5206-1_43_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_5206-1_43_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_5206-1_43_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_5206-1_43_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_5206-1_43_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_5206-1_43_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_5206-1_43_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_5206-1_43_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_5206-1_43_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_5206-1_43_20241216.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CURSO DE ESPECIALIZAÇÃO EM DADOS E INTELIGÊNCIA ARTIFICIAL",
+      "years": [
+        {
+          "name": "Ano 1",
+          "groups": [
+            {
+              "name": "5164-1",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_5164-1_40_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_5164-1_40_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_5164-1_40_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_5164-1_40_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_5164-1_40_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_5164-1_40_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_5164-1_40_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_5164-1_40_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_5164-1_40_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_5164-1_40_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_5164-1_40_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_5164-1_40_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_5164-1_40_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_5164-1_40_20241216.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CURSO DE ESPECIALIZAÇÃO EM DESENVOLVIMENTO DE APLICAÇÕES MÓVEIS",
+      "years": [
+        {
+          "name": "Ano 1",
+          "groups": [
+            {
+              "name": "5165-1",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_5165-1_37_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_5165-1_37_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_5165-1_37_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_5165-1_37_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_5165-1_37_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_5165-1_37_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_5165-1_37_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_5165-1_37_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_5165-1_37_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_5165-1_37_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_5165-1_37_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_5165-1_37_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_5165-1_37_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_5165-1_37_20241216.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CURSO DE ESPECIALIZAÇÃO EM EXCELÊNCIA NAS ORGANIZAÇÕES",
+      "years": [
+        {
+          "name": "Ano 1",
+          "groups": [
+            {
+              "name": "5207-1",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_5207-1_35_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_5207-1_35_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_5207-1_35_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_5207-1_35_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_5207-1_35_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_5207-1_35_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_5207-1_35_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_5207-1_35_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_5207-1_35_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_5207-1_35_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_5207-1_35_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_5207-1_35_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_5207-1_35_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_5207-1_35_20241216.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LICENCIATURA EM ELETRÓNICA E MECÂNICA INDUSTRIAL (1º CICLO)",
+      "years": [
+        {
+          "name": "Ano 1",
+          "groups": [
+            {
+              "name": "L-EMI-1",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_8912-1_26_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_8912-1_26_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_8912-1_26_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_8912-1_26_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_8912-1_26_20241014.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_8912-1_26_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_8912-1_26_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_8912-1_26_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_8912-1_26_20241118.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_8912-1_26_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_8912-1_26_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_8912-1_26_20241216.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ano 2",
+          "groups": [
+            {
+              "name": "L-EMI-2",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_8912-2_27_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_8912-2_27_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_8912-2_27_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_8912-2_27_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_8912-2_27_20241014.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_8912-2_27_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_8912-2_27_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_8912-2_27_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_8912-2_27_20241118.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_8912-2_27_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_8912-2_27_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_8912-2_27_20241216.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ano 3",
+          "groups": [
+            {
+              "name": "L-EMI-3",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_8912-3_49_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_8912-3_49_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_8912-3_49_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_8912-3_49_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_8912-3_49_20241014.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_8912-3_49_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_8912-3_49_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_8912-3_49_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_8912-3_49_20241118.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_8912-3_49_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_8912-3_49_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_8912-3_49_20241216.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LICENCIATURA EM ENGENHARIA INFORMÁTICA APLICADA",
+      "years": [
+        {
+          "name": "Ano 1",
+          "groups": [
+            {
+              "name": "L-EIA-1",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_8914-1_60_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_8914-1_60_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_8914-1_60_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_8914-1_60_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_8914-1_60_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_8914-1_60_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_8914-1_60_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_8914-1_60_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_8914-1_60_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_8914-1_60_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_8914-1_60_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_8914-1_60_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_8914-1_60_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_8914-1_60_20241216.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LICENCIATURA EM GESTÃO COMERCIAL (1ºCICLO)",
+      "years": [
+        {
+          "name": "Ano 1",
+          "groups": [
+            {
+              "name": "L-GC-1",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_8908-1_16_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_8908-1_16_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_8908-1_16_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_8908-1_16_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_8908-1_16_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_8908-1_16_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_8908-1_16_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_8908-1_16_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_8908-1_16_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_8908-1_16_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_8908-1_16_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_8908-1_16_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_8908-1_16_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_8908-1_16_20241216.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ano 2",
+          "groups": [
+            {
+              "name": "L-GC-2",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_8908-2_17_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_8908-2_17_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_8908-2_17_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_8908-2_17_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_8908-2_17_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_8908-2_17_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_8908-2_17_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_8908-2_17_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_8908-2_17_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_8908-2_17_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_8908-2_17_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_8908-2_17_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_8908-2_17_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_8908-2_17_20241216.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ano 3",
+          "groups": [
+            {
+              "name": "L-GC-3",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_8908-3_18_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_8908-3_18_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_8908-3_18_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_8908-3_18_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_8908-3_18_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_8908-3_18_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_8908-3_18_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_8908-3_18_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_8908-3_18_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_8908-3_18_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_8908-3_18_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_8908-3_18_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_8908-3_18_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_8908-3_18_20241216.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LICENCIATURA EM GESTÃO DA QUALIDADE (1º CICLO)",
+      "years": [
+        {
+          "name": "Ano 1",
+          "groups": [
+            {
+              "name": "L-GQ-1",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_8910-1_20_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_8910-1_20_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_8910-1_20_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_8910-1_20_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_8910-1_20_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_8910-1_20_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_8910-1_20_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_8910-1_20_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_8910-1_20_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_8910-1_20_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_8910-1_20_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_8910-1_20_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_8910-1_20_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_8910-1_20_20241216.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ano 2",
+          "groups": [
+            {
+              "name": "L-GQ-2",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_8910-2_21_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_8910-2_21_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_8910-2_21_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_8910-2_21_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_8910-2_21_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_8910-2_21_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_8910-2_21_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_8910-2_21_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_8910-2_21_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_8910-2_21_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_8910-2_21_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_8910-2_21_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_8910-2_21_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_8910-2_21_20241216.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ano 3",
+          "groups": [
+            {
+              "name": "L-GQ-3",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_8910-3_22_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_8910-3_22_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_8910-3_22_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_8910-3_22_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_8910-3_22_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_8910-3_22_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_8910-3_22_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_8910-3_22_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_8910-3_22_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_8910-3_22_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_8910-3_22_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_8910-3_22_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_8910-3_22_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_8910-3_22_20241216.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LICENCIATURA EM GESTÃO PÚBLICA (1º CICLO)",
+      "years": [
+        {
+          "name": "Ano 1",
+          "groups": [
+            {
+              "name": "L-GP-1",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_8913-1_28_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_8913-1_28_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_8913-1_28_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_8913-1_28_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_8913-1_28_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_8913-1_28_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_8913-1_28_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_8913-1_28_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_8913-1_28_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_8913-1_28_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_8913-1_28_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_8913-1_28_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_8913-1_28_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_8913-1_28_20241216.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ano 2",
+          "groups": [
+            {
+              "name": "L-GP-2",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_8913-2_29_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_8913-2_29_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_8913-2_29_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_8913-2_29_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_8913-2_29_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_8913-2_29_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_8913-2_29_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_8913-2_29_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_8913-2_29_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_8913-2_29_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_8913-2_29_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_8913-2_29_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_8913-2_29_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_8913-2_29_20241216.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ano 3",
+          "groups": [
+            {
+              "name": "L-GP-3",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_8913-3_30_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_8913-3_30_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_8913-3_30_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_8913-3_30_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_8913-3_30_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_8913-3_30_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_8913-3_30_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_8913-3_30_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_8913-3_30_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_8913-3_30_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_8913-3_30_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_8913-3_30_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_8913-3_30_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_8913-3_30_20241216.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LICENCIATURA EM SECRETARIADO E COMUNICAÇÃO EMPRESARIAL (1º CICLO)",
+      "years": [
+        {
+          "name": "Ano 1",
+          "groups": [
+            {
+              "name": "L-SCE-1",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_8911-1_23_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_8911-1_23_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_8911-1_23_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_8911-1_23_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_8911-1_23_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_8911-1_23_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_8911-1_23_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_8911-1_23_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_8911-1_23_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_8911-1_23_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_8911-1_23_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_8911-1_23_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_8911-1_23_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_8911-1_23_20241216.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ano 2",
+          "groups": [
+            {
+              "name": "L-SCE-2",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_8911-2_24_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_8911-2_24_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_8911-2_24_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_8911-2_24_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_8911-2_24_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_8911-2_24_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_8911-2_24_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_8911-2_24_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_8911-2_24_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_8911-2_24_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_8911-2_24_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_8911-2_24_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_8911-2_24_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_8911-2_24_20241216.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ano 3",
+          "groups": [
+            {
+              "name": "L-SCE-3",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_8911-3_25_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_8911-3_25_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_8911-3_25_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_8911-3_25_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_8911-3_25_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_8911-3_25_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_8911-3_25_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_8911-3_25_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_8911-3_25_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_8911-3_25_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_8911-3_25_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_8911-3_25_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_8911-3_25_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_8911-3_25_20241216.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LICENCIATURA EM TECNOLOGIAS DA INFORMAÇÃO (1ºCICLO)",
+      "years": [
+        {
+          "name": "Ano 1",
+          "groups": [
+            {
+              "name": "L-TI-1",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_8905-1_13_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_8905-1_13_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_8905-1_13_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_8905-1_13_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_8905-1_13_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_8905-1_13_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_8905-1_13_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_8905-1_13_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_8905-1_13_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_8905-1_13_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_8905-1_13_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_8905-1_13_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_8905-1_13_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_8905-1_13_20241216.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ano 2",
+          "groups": [
+            {
+              "name": "L-TI-2",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_8905-2_14_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_8905-2_14_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_8905-2_14_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_8905-2_14_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_8905-2_14_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_8905-2_14_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_8905-2_14_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_8905-2_14_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_8905-2_14_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_8905-2_14_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_8905-2_14_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_8905-2_14_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_8905-2_14_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_8905-2_14_20241216.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ano 3",
+          "groups": [
+            {
+              "name": "L-TI-3",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_8905-3_15_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_8905-3_15_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_8905-3_15_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_8905-3_15_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_8905-3_15_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_8905-3_15_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_8905-3_15_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_8905-3_15_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_8905-3_15_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_8905-3_15_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_8905-3_15_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_8905-3_15_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_8905-3_15_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_8905-3_15_20241216.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MESTRADO EM ASSESSORIA DE DIREÇÃO E COMUNICAÇÃO NAS ORGANIZAÇÕES (2º CICLO)",
+      "years": [
+        {
+          "name": "Ano 1",
+          "groups": [
+            {
+              "name": "M-ADCO",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_9312-1_51_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_9312-1_51_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_9312-1_51_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_9312-1_51_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_9312-1_51_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_9312-1_51_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_9312-1_51_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_9312-1_51_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_9312-1_51_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_9312-1_51_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_9312-1_51_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_9312-1_51_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_9312-1_51_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_9312-1_51_20241216.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MESTRADO EM ENGENHARIA DE MANUTENÇÃO INDUSTRIAL (2º CICLO)",
+      "years": [
+        {
+          "name": "Ano 1",
+          "groups": [
+            {
+              "name": "M-EMI-1",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_9326-1_59_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_9326-1_59_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_9326-1_59_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_9326-1_59_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_9326-1_59_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_9326-1_59_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_9326-1_59_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_9326-1_59_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_9326-1_59_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_9326-1_59_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_9326-1_59_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_9326-1_59_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_9326-1_59_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_9326-1_59_20241216.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MESTRADO EM ENGENHARIA MECATRÓNICA (2º CICLO)",
+      "years": [
+        {
+          "name": "Ano 1",
+          "groups": [
+            {
+              "name": "M-EM-1",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_9327-1_58_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_9327-1_58_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_9327-1_58_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_9327-1_58_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_9327-1_58_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_9327-1_58_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_9327-1_58_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_9327-1_58_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_9327-1_58_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_9327-1_58_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_9327-1_58_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_9327-1_58_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_9327-1_58_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_9327-1_58_20241216.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MESTRADO EM GESTÃO COMERCIAL (2º CICLO)",
+      "years": [
+        {
+          "name": "Ano 1",
+          "groups": [
+            {
+              "name": "M-GC",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_9268-1_48_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_9268-1_48_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_9268-1_48_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_9268-1_48_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_9268-1_48_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_9268-1_48_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_9268-1_48_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_9268-1_48_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_9268-1_48_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_9268-1_48_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_9268-1_48_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_9268-1_48_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_9268-1_48_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_9268-1_48_20241216.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MESTRADO EM GESTÃO DA QUALIDADE TOTAL (2º CICLO)",
+      "years": [
+        {
+          "name": "Ano 1",
+          "groups": [
+            {
+              "name": "M-GQT",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_9282-1_39_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_9282-1_39_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_9282-1_39_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_9282-1_39_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_9282-1_39_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_9282-1_39_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_9282-1_39_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_9282-1_39_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_9282-1_39_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_9282-1_39_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_9282-1_39_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_9282-1_39_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_9282-1_39_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_9282-1_39_20241216.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MESTRADO EM GESTÃO E NEGÓCIOS DIGITAIS",
+      "years": [
+        {
+          "name": "Ano 1",
+          "groups": [
+            {
+              "name": "M-GND-1",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_9314-1_57_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_9314-1_57_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_9314-1_57_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_9314-1_57_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_9314-1_57_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_9314-1_57_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_9314-1_57_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_9314-1_57_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_9314-1_57_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_9314-1_57_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_9314-1_57_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_9314-1_57_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_9314-1_57_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_9314-1_57_20241216.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ano 2",
+          "groups": [
+            {
+              "name": "M-GND-2",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_9314-2_62_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_9314-2_62_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_9314-2_62_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_9314-2_62_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_9314-2_62_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_9314-2_62_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_9314-2_62_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_9314-2_62_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_9314-2_62_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_9314-2_62_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_9314-2_62_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_9314-2_62_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_9314-2_62_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_9314-2_62_20241216.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MESTRADO EM INFORMÁTICA APLICADA (2º CICLO)",
+      "years": [
+        {
+          "name": "Ano 1",
+          "groups": [
+            {
+              "name": "M-IA",
+              "weeks": [
+                {
+                  "name": "Semana 16-09-2024",
+                  "link": "plano_9276-1_46_20240916.html"
+                },
+                {
+                  "name": "Semana 23-09-2024",
+                  "link": "plano_9276-1_46_20240923.html"
+                },
+                {
+                  "name": "Semana 30-09-2024",
+                  "link": "plano_9276-1_46_20240930.html"
+                },
+                {
+                  "name": "Semana 07-10-2024",
+                  "link": "plano_9276-1_46_20241007.html"
+                },
+                {
+                  "name": "Semana 14-10-2024",
+                  "link": "plano_9276-1_46_20241014.html"
+                },
+                {
+                  "name": "Semana 21-10-2024",
+                  "link": "plano_9276-1_46_20241021.html"
+                },
+                {
+                  "name": "Semana 28-10-2024",
+                  "link": "plano_9276-1_46_20241028.html"
+                },
+                {
+                  "name": "Semana 04-11-2024",
+                  "link": "plano_9276-1_46_20241104.html"
+                },
+                {
+                  "name": "Semana 11-11-2024",
+                  "link": "plano_9276-1_46_20241111.html"
+                },
+                {
+                  "name": "Semana 18-11-2024",
+                  "link": "plano_9276-1_46_20241118.html"
+                },
+                {
+                  "name": "Semana 25-11-2024",
+                  "link": "plano_9276-1_46_20241125.html"
+                },
+                {
+                  "name": "Semana 02-12-2024",
+                  "link": "plano_9276-1_46_20241202.html"
+                },
+                {
+                  "name": "Semana 09-12-2024",
+                  "link": "plano_9276-1_46_20241209.html"
+                },
+                {
+                  "name": "Semana 16-12-2024",
+                  "link": "plano_9276-1_46_20241216.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
