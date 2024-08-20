@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function populateDropdowns() {
         // Populate course dropdown
-        courseSelect.innerHTML = '<option value="">Select Course</option>';
+        courseSelect.innerHTML = '<option value="">Seleciona o curso</option>';
         data.courses.forEach(course => {
             const option = document.createElement('option');
             option.value = course.name;
@@ -39,9 +39,9 @@ document.addEventListener('DOMContentLoaded', () => {
         const course = data.courses.find(course => course.name === selectedCourse);
 
         // Clear year, group, and week dropdowns
-        yearSelect.innerHTML = '<option value="">Select Year</option>';
-        groupSelect.innerHTML = '<option value="">Select Group</option>';
-        weekSelect.innerHTML = '<option value="">Select Week</option>';
+        yearSelect.innerHTML = '<option value="">Seleciona o ano</option>';
+        groupSelect.innerHTML = '<option value="">Seleciona a turma</option>';
+        weekSelect.innerHTML = '<option value="">Seleciona a semana</option>';
 
         if (course) {
             course.years.forEach(year => {
@@ -63,8 +63,8 @@ document.addEventListener('DOMContentLoaded', () => {
         const year = course?.years.find(year => year.name === selectedYear);
 
         // Clear group and week dropdowns
-        groupSelect.innerHTML = '<option value="">Select Group</option>';
-        weekSelect.innerHTML = '<option value="">Select Week</option>';
+        groupSelect.innerHTML = '<option value="">Seleciona a turma</option>';
+        weekSelect.innerHTML = '<option value="">Seleciona a semana</option>';
 
         if (year) {
             year.groups.forEach(group => {
@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const group = year?.groups.find(group => group.name === selectedGroup);
 
         // Clear week dropdown
-        weekSelect.innerHTML = '<option value="">Select Week</option>';
+        weekSelect.innerHTML = '<option value="">Seleciona a semana</option>';
 
         if (group) {
             group.weeks.forEach(week => {

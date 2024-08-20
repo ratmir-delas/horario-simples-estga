@@ -1,42 +1,119 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Timetable Viewer</title>
-    <script defer src="script.js"></script>
+    <title>Visualizador de Horários</title>
+    <link rel="stylesheet" href="css/pico.min.css">
+    <style>
+        /* Dark theme styles */
+        body {
+            background-color: #121212;
+            color: #e0e0e0;
+            font-family: system-ui, sans-serif;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 1rem;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 1rem;
+            color: #bb86fc;
+        }
+        label {
+            display: block;
+            margin-bottom: 0.5rem;
+            color: #e0e0e0;
+        }
+        select, button {
+            width: 100%;
+            margin-bottom: 1rem;
+            background-color: #333;
+            color: #e0e0e0;
+            border: 1px solid #444;
+        }
+        select:focus, button:focus {
+            border-color: #bb86fc;
+            outline: none;
+        }
+        .card {
+            background: #1f1f1f;
+            border: 1px solid #333;
+            border-radius: 0.5rem;
+            padding: 1rem;
+            margin-bottom: 1rem;
+        }
+        .card h2 {
+            margin-top: 0;
+            color: #bb86fc;
+        }
+        footer {
+            background: #1f1f1f;
+            border-top: 1px solid #333;
+            padding: 1rem;
+            text-align: center;
+            margin-top: 2rem;
+        }
+        footer a {
+            color: #bb86fc;
+            text-decoration: none;
+            margin: 0 0.5rem;
+        }
+        footer a:hover {
+            text-decoration: underline;
+        }
+        @media (max-width: 600px) {
+            .container {
+                padding: 0.5rem;
+            }
+            select, button {
+                width: 100%;
+            }
+        }
+    </style>
 </head>
 <body>
-<h1>Timetable Viewer</h1>
+<div class="container">
+    <header>
+        <h1>Índice de Horários da ESTGA</h1>
+    </header>
 
-<label for="course">Course:</label>
-<select id="course">
-    <option value="">Select Course</option>
-    <!-- Options will be populated by JavaScript -->
-</select>
+    <div class="card">
+        <label for="course">Curso</label>
+        <select id="course">
+            <option value="">Selecionar Curso</option>
+        </select>
 
-<label for="year">Year:</label>
-<select id="year">
-    <option value="">Select Year</option>
-    <!-- Options will be populated by JavaScript -->
-</select>
+        <label for="year">Ano</label>
+        <select id="year">
+            <option value="">Selecionar Ano</option>
+        </select>
 
-<label for="group">Group:</label>
-<select id="group">
-    <option value="">Select Group</option>
-    <!-- Options will be populated by JavaScript -->
-</select>
+        <label for="group">Turma</label>
+        <select id="group">
+            <option value="">Selecionar Turma</option>
+        </select>
 
-<label for="week">Week:</label>
-<select id="week">
-    <option value="">Select Week</option>
-    <!-- Options will be populated by JavaScript -->
-</select>
+        <label for="week">Semana</label>
+        <select id="week">
+            <option value="">Selecionar Semana</option>
+        </select>
 
-<button id="viewTimetable">View Timetable</button>
+        <button id="viewTimetable">Ver Horário</button>
+    </div>
+</div>
 
-<script>
-    // JavaScript to handle saving and loading preferences, and setting default week
-</script>
+<footer>
+    <p>© 2024 ESTGA - Escola Superior de Tecnologia e Gestão de Águeda</p>
+    <p>
+        <a href="sobre.html">Sobre</a> |
+        <a href="contacto.html">Contacto</a> |
+        <a href="ajuda.html">Ajuda</a>
+    </p>
+</footer>
+
+<script src="script.js"></script>
 </body>
 </html>
