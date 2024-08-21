@@ -52,6 +52,12 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         }
 
+        // Automatically select the first year if available
+        if (yearSelect.options.length > 1) {
+            yearSelect.selectedIndex = 1;
+            updateGroups();
+        }
+
         // Save preferences
         savePreferences();
     }
@@ -73,6 +79,12 @@ document.addEventListener('DOMContentLoaded', () => {
                 option.textContent = group.name;
                 groupSelect.appendChild(option);
             });
+        }
+
+        // Automatically select the first group if available
+        if (groupSelect.options.length > 1) {
+            groupSelect.selectedIndex = 1;
+            updateWeeks();
         }
 
         // Save preferences
@@ -97,6 +109,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 option.textContent = week.name;
                 weekSelect.appendChild(option);
             });
+
+            setDefaultWeek();
         }
 
         // Save preferences
@@ -135,16 +149,33 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function setDefaultWeek() {
         const now = new Date();
-        const year = now.getFullYear();
-        const month = now.getMonth();
-        const date = now.getDate();
-        const weekNumber = Math.ceil(date / 7);
-        const defaultWeekName = `Semana ${weekNumber}-${year}`;
-        const weekOptions = Array.from(weekSelect.options);
-        const defaultWeekOption = weekOptions.find(option => option.text.includes(defaultWeekName));
+        const dayOfWeek = now.getDay(); // 0 = Sunday, 6 = Saturday
 
-        if (defaultWeekOption) {
-            weekSelect.value = defaultWeekOption.value;
+        // Adjust to the start of the current week (Monday)
+        const startOfWeek = new Date(now);
+        const daysToMonday = (dayOfWeek === 0 ? 6 : dayOfWeek - 1);
+        startOfWeek.setDate(startOfWeek.getDate() - daysToMonday);
+
+        // Format the start date of the week as "Semana DD-MM-YYYY"
+        const day = String(startOfWeek.getDate()).padStart(2, '0');
+        const month = String(startOfWeek.getMonth() + 1).padStart(2, '0'); // Months are 0-indexed
+        const year = startOfWeek.getFullYear();
+        const startOfWeekName = `Semana ${day}-${month}-${year}`;
+        // log the start of the week
+        console.log(startOfWeekName);
+
+        // Find the matching option in the week dropdown
+        const weekOptions = Array.from(weekSelect.options);
+        const matchingWeekOption = weekOptions.find(option => option.text.includes(startOfWeekName));
+
+        if (matchingWeekOption) {
+            // Prevent duplicate "(semana atual)" label
+            if (!matchingWeekOption.textContent.includes("(semana atual)")) {
+                matchingWeekOption.textContent += " (semana atual)";
+            }
+            weekSelect.value = matchingWeekOption.value;
+        } else {
+            console.warn(`No matching week found for ${startOfWeekName}`);
         }
     }
 
