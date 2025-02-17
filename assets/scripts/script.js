@@ -105,7 +105,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (group) {
             group.weeks.forEach(week => {
                 const option = document.createElement('option');
-                option.value = `https://estgahorarios.web.ua.pt/1semestre/${week.link}`;
+                option.value = `https://estgahorarios.web.ua.pt/2semestre/${week.link}`;
                 option.textContent = week.name;
                 weekSelect.appendChild(option);
             });
