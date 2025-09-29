@@ -156,26 +156,25 @@ document.addEventListener('DOMContentLoaded', () => {
         const daysToMonday = (dayOfWeek === 0 ? 6 : dayOfWeek - 1);
         startOfWeek.setDate(startOfWeek.getDate() - daysToMonday);
 
-        // Format the start date of the week as "Semana DD-MM-YYYY"
+        // Format the start date of the week as "Semana DD/MM/YYYY"
         const day = String(startOfWeek.getDate()).padStart(2, '0');
         const month = String(startOfWeek.getMonth() + 1).padStart(2, '0'); // Months are 0-indexed
         const year = startOfWeek.getFullYear();
-        const startOfWeekName = `Semana ${day}-${month}-${year}`;
-        // log the start of the week
-        console.log(startOfWeekName);
+        const startOfWeekName = `Semana ${day}/${month}/${year}`;
+        console.log('Generated week name:', startOfWeekName);
 
         // Find the matching option in the week dropdown
         const weekOptions = Array.from(weekSelect.options);
         const matchingWeekOption = weekOptions.find(option => option.text.includes(startOfWeekName));
 
         if (matchingWeekOption) {
-            // Prevent duplicate "(semana atual)" label
             if (!matchingWeekOption.textContent.includes("(semana atual)")) {
                 matchingWeekOption.textContent += " (semana atual)";
             }
             weekSelect.value = matchingWeekOption.value;
         } else {
             console.warn(`No matching week found for ${startOfWeekName}`);
+            console.log('Available week options:', weekOptions.map(option => option.text));
         }
     }
 
